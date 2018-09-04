@@ -67,8 +67,7 @@
   height: auto;
 }
 .flickrPlugBorder_TBLC{
-  border: 2px dashed #ccc;
-  padding: 1px;
+
 }
 
 .flickrPlugGradHolder_TBLC {
@@ -198,7 +197,7 @@ padding: 10px;
 .ei_row_TBLC {
   width: 100%;
   display: inline-block;
-  border-bottom: 1px dashed #ccc;
+background-image: linear-gradient(-45deg, rgba(255, 0, 132, 0.5), rgba(255, 102, 181, 0.5));
 
 }
 
@@ -244,12 +243,12 @@ padding: 10px;
     padding: 1px;
 }
 .imgCommentInner_TBLC{
-	display: table-cell;
-	width: 100%;
-	height: auto;
-	background-image: linear-gradient(-45deg, rgba(255, 0, 132, 0.5), rgba(255, 102, 181, 0.5));
-	padding-left: 10px;
-	padding-right: 10px;
+display: table-cell;
+width: 100%;
+height: auto;
+background-image: linear-gradient(-45deg, rgba(255, 0, 132, 0.5), rgba(255, 102, 181, 0.5));
+padding-left: 10px;
+padding-right: 10px;
 }
 .imgCommentInner_TBLC h2{
 

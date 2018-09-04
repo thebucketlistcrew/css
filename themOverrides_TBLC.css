@@ -43,4 +43,16 @@ display: none;
     background-color: #f7f7f7;
 
 }
+
+
+.sticky .centered-top {
+
+    border-bottom: 0px solid #729c0b;
+}
+
+
+.centered-top-container.sticky, .sticky .centered-top {
+
+    background-color: #f7f7f7;
+}
 </style>

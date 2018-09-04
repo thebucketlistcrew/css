@@ -256,4 +256,19 @@ padding-right: 10px;
   color:white;
 }
 
+/* -----------------Experimental -----------------*/
+.item-view .bg-photo-container + .centered .centered-bottom .post-wrapper {
+
+    margin-top: -0px;
+
+}
+
+.bg-photo-container, .bg-photo-container .bg-photo {
+
+    height: 0px;
+    width: 100%;
+
+}
+
+
 </style>

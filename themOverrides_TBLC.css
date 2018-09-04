@@ -1,0 +1,50 @@
+<style>
+
+.item-view .bg-photo-container + .centered .centered-bottom .post-wrapper {
+    margin-top: -420px;
+}
+
+.item-view .post-share-buttons {
+    margin-bottom: 20px;
+}
+
+.ei_row_TBLC h3, .ei_title_TBLC h3 {
+
+    font-size: 0.9em;
+
+}
+
+h1 {
+    font-size: 1.5em;
+    margin: .67em 0;
+}
+
+.centered-top-container.sticky, .sticky .centered-top {
+    background-color: #fff;
+}
+
+.bg-photo-container, .bg-photo-container .bg-photo {
+    height: 464px;
+    width: 100%;
+}
+
+body {
+    background-color: #fff;
+    }
+
+.item-view .bg-photo, .item-view .bg-photo-container {
+
+display: none;
+}
+
+.item-view .bg-photo-container + .centered .centered-bottom .post-wrapper {
+    margin-top: 40px;
+    }
+
+.item-view .centered, .item-view .centered .main, .item-view .centered .main-container, .item-view .page_body.has-vertical-ads .centered, .item-view .page_body.has-vertical-ads .centered .main, .item-view .page_body.has-vertical-ads .centered .main-container {
+
+    width: 100%;
+    background-color: #f7f7f7;
+
+}
+</style>

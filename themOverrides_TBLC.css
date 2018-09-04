@@ -1,9 +1,5 @@
 <style>
 
-.item-view .bg-photo-container + .centered .centered-bottom .post-wrapper {
-    margin-top: -420px;
-}
-
 .item-view .post-share-buttons {
     margin-bottom: 20px;
 }
@@ -38,7 +34,7 @@ display: none;
 }
 
 .item-view .bg-photo-container + .centered .centered-bottom .post-wrapper {
-    margin-top: 40px;
+    margin-top: 40px !important;
     }
 
 .item-view .centered, .item-view .centered .main, .item-view .centered .main-container, .item-view .page_body.has-vertical-ads .centered, .item-view .page_body.has-vertical-ads .centered .main, .item-view .page_body.has-vertical-ads .centered .main-container {

@@ -259,13 +259,13 @@ padding-right: 10px;
 /* -----------------Experimental -----------------*/
 .item-view .bg-photo-container + .centered .centered-bottom .post-wrapper {
 
-    margin-top: -0px;
+    margin-top: -0px !important ;
 
 }
 
 .bg-photo-container, .bg-photo-container .bg-photo {
 
-    height: 0px;
+    height: 0px !important ;
     width: 100%;
 
 }

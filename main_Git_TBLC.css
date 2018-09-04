@@ -186,6 +186,34 @@ padding: 10px;
   }
 } 
 */
+/* -----------------Event Info -----------------*/
+.eventInfoCont_TBLC{
+  width: 100%;
+}
+.ei_row_TBLC{
+  width: 100%;
+  height:auto;
+  display: inline-block;
+}
+.ei_col1_TBLC{
+  padding-left:5px;
+  float:left;
+  width:10%;
+  height:auto;
+}
+.ei_col2_TBLC{
+  width:80%;
+  float:left;
+  padding-left:5px;
+  height:auto;
+}
+.ei_title_TBLC{
+  padding-left:5px;
+}
+.ei_row_TBLC h3,.ei_title_TBLC h3  {
+  color:black;
+  font-size:0.8em;
+}
 
 /* -----------------Text Stuff -----------------*/
 .subTitle_TBLC{
